@@ -1,5 +1,2 @@
-## Next.js App Router Course - Final
-
-This is the final template for the Next.js App Router Course. It contains the final code for the dashboard application.
-
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+## TO login use user@nextmail.com as email and 123456 as password 
+I am working on the signup page and other content and would be done in next few days so please do consider my position 
