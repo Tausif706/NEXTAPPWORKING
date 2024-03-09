@@ -1,6 +1,7 @@
 import AcmeLogo from '@/app/ui/acme-logo';
-import LoginForm from '@/app/ui/login-form';
+
 import Link from 'next/link';
+import SignUpForm from '../ui/signUp-form';
 
 export default function LoginPage() {
   return (
@@ -13,7 +14,7 @@ export default function LoginPage() {
             </Link>
           </div>
         </div>
-        <LoginForm />
+        <SignUpForm />
       </div>
     </main>
   );
